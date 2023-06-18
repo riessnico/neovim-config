@@ -1,3 +1,3 @@
-# config
+# neovim-config
 
-STILL IN WIP
+WIP
